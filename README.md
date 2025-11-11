@@ -1,8 +1,9 @@
 # SXE_tarea11
 
-### Crea un repositorio en GitHub documentando la instalación de un entorno de desarrollo Odoo 18 completo usando Docker, VS Code/Pycharm (u otro IDE que prefieras) y PgAdmin. Ten en cuenta que Odoo está programado en Python.  
+#### Crea un repositorio en GitHub documentando la instalación de un entorno de desarrollo Odoo 18 completo usando Docker, VS Code/Pycharm (u otro IDE que prefieras) y PgAdmin. Ten en cuenta que Odoo está programado en Python.  
 
-En nuestro archivo .yml insertamos los servicios para lo pedido.
+
+En nuestro archivo .yml insertamos los servicios para lo pedido en `Intellij` con los pluggins (En este caso python, añadidos).
 
 yaml 
 ```
@@ -35,4 +36,12 @@ services:
       - mydb
     restart: unless-stopped
 ```
+
+Posteriormente con el comando `docker-compose up`, arrancamos el docker, por lo que accederemos al navegador con sus puertos respectivos (`8081 y 8069`)
+
+
+
+
+
+
 

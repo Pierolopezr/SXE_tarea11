@@ -65,6 +65,15 @@ Nos aparecerán un listado de módulos básicos a los cuales añadiremos unos cu
 
 <img width="950" height="600" alt="Captura de pantalla 2025-11-11 213320" src="https://github.com/user-attachments/assets/198eac06-e965-4377-bff9-b818723f0fd0" />
 
+## PgAdmin  
+
+Con el correo ya establecido (`piero@gmail.com`), iniciamos sesión. Posteriormente, vinculamos la base de datos que tenemos:  
+
+<img width="950" height="600" alt="image" src="https://github.com/user-attachments/assets/e7b9d023-3b42-46e8-bdb3-7061fc60b670" />  
+
+Finalmente, indagamos en nuestra base de datos para ver que todo está en orden.  
+
+<img width="950" height="600" alt="image" src="https://github.com/user-attachments/assets/4ecd31a4-7b98-417d-86b9-fe2d1b15765d" />
 
 
 
